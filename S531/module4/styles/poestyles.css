@@ -2,7 +2,9 @@ body {
 max-width: 60em;
 margin: 0 auto 0 auto;
 background-color: rgb(204, 204, 204);
-  background-image: url("../images/poe.png");
+  background-image: url("../images/poe-portait.png");
+  background-repeat: no-repeat;
+  background-position: bottom left;
 }
 
 table, th, td {
