@@ -9,6 +9,10 @@ background-color: rgb(204, 204, 204);
   background-position: bottom right;
 }
 
+h1 {
+  background-image: url("../images/poe-portrait.png");
+}
+
 p {
   color: rgb(255, 255, 255);
   background: rgba(60, 60, 60, 0.75);
