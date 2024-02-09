@@ -1,7 +1,7 @@
 body {
 max-width: 60em;
 margin: 0 auto 0 auto;
-background-image: poe-portrait.png;
+background-image: ..images/poe-portrait.png;
 }
 
 table, th, td {
