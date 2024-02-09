@@ -4,7 +4,7 @@ margin: 0 auto 0 auto;
 background-color: rgb(204, 204, 204);
   background-image: url("../images/poe-portrait.png");
   background-repeat: repeat-x;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: bottom right;
 }
 
