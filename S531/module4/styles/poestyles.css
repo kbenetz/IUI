@@ -9,11 +9,11 @@ background-color: rgb(204, 204, 204);
 }
 
 h1 {
-  background-color: rgb(255, 0, 0);
+  background-color: rgba(255, 0, 0, 0.2);
 }
 
 p {
-  background-color: rgb(255, 0, 0);
+  background-color: rgba(255, 0, 0, 0.2);
 }
 
 table, th, td {
