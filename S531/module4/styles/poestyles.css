@@ -17,6 +17,5 @@ table, th, td {
   font-family: Helvetica;
 border-collapse: collapse;
 border: 1px solid #000;
-padding-top: 12px;
-padding-bottom: 12px;
+padding: 1em;
 }
