@@ -9,7 +9,11 @@ background-color: rgb(204, 204, 204);
 }
 
 h1 {
-  background: rgba((106, 21, 54, 0.1);
+  background: rgba((106, 21, 54);
+}
+
+p {
+  background: rgba((106, 21, 54);
 }
 
 table, th, td {
