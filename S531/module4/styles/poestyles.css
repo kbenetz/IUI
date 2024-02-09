@@ -3,6 +3,7 @@ max-width: 60em;
 margin: 0 auto 0 auto;
 background-image: url("../images/poe-portrait.png");
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: bottom-left;
 }
 
