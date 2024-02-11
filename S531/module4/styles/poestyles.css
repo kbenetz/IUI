@@ -44,16 +44,16 @@ a:active {
   color: rgb(255, 215, 0); /* selected link */
 }
 
+caption {
+  font-weight: bold;
+  background: rgba(60, 60, 60, 0.75);
+}
+
 table, th, td {
   font-family: Helvetica, sans-serif;
 border-collapse: collapse;
 border: 1px solid #000;
 padding: 1em;
-}
-
-caption {
-  font-weight: bold;
-  background: rgba(60, 60, 60, 0.75);
 }
 
 td {
