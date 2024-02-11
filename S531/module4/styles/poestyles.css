@@ -19,7 +19,7 @@ img {
 }
 
 img.works {
-  float: left;
+  float: left; /* This changes position of images on Lenore and Tell-Tale Heart pages */ 
 }
 
 table, th, td {
