@@ -28,12 +28,8 @@ img.works {
 }
 
 a {
-  background-color: rgba(60, 60, 60);
+  background-color: rgba(60, 60, 60, 0.75);
   font-weight: bold;
-  padding: 10px 12px;
-  text-align: center;
-  display: inline-block;
-}
 }
 
 a:link {
