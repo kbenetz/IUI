@@ -29,16 +29,15 @@ img.works {
 
 a {
   background-color: rgba(60, 60, 60, 0.75)
+  font-weight: bold;
 }
 
 a:link {
   color: rgb(255, 0, 255); /* unvisited link */
-  font-weight: bold;
 }
 
 a:visited {
   color: rgb(0, 153, 51); /* visited link */
-  font-weight: bold;
 }
 
 a:active {
