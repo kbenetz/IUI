@@ -36,7 +36,7 @@ padding: 1em;
 
 caption {
   font-weight: bold;
-  text-shadow: 1px 1px black;
+  background: rgba(60, 60, 60, 0.75);
 }
 
 td {
