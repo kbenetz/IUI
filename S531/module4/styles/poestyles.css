@@ -5,14 +5,14 @@ color: rgb(255, 255, 255);
 background: rgb(119, 136, 153) url("../images/poe-portrait.png") url("../images/tree3.png") no-repeat fixed bottom right bottom left;
 }
 
-p {
-  background: rgba(60, 60, 60, 0.75);
-  font-family: Helvetica, sans-serif;
-}
-
 h1, h2 {
   font-family: Georgia, serif;
   text-shadow: 1px 1px black;
+}
+
+p {
+  background: rgba(60, 60, 60, 0.75);
+  font-family: Helvetica, sans-serif;
 }
 
 img {
