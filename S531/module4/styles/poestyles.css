@@ -32,7 +32,10 @@ table, th, td {
 border-collapse: collapse;
 border: 1px solid #000;
 padding: 1em;
-background-color: rgb(160,160,160);
+}
+
+td {
+  background-color: rgb(160,160,160);
 }
 
 th {
