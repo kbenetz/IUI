@@ -4,7 +4,7 @@ margin: 0 auto 0 auto;
 font-family: Helvetica;
 color: rgb(255, 255, 255);
 background-color: rgb(119, 136, 153);
-  background-image: url("../images/poe-portrait.png"), url("../images/tree3.png");
+  background-image: url("../images/poe-portrait.png"), url("../images/tree3.png"), url("../images/cobweb.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: bottom right, bottom left;
