@@ -1,7 +1,6 @@
 body {
 max-width: 60em;
 margin: 0 auto 0 auto;
-font-family: Helvetica, sans-serif;
 color: rgb(255, 255, 255);
 background-color: rgb(119, 136, 153);
   background-image: url("../images/poe-portrait.png"), url("../images/tree3.png");
@@ -12,6 +11,7 @@ background-color: rgb(119, 136, 153);
 
 p {
   background: rgba(60, 60, 60, 0.75);
+  font-family: Helvetica, sans-serif;
 }
 
 h1, h2 {
