@@ -31,11 +31,10 @@ table, th, td {
 border-collapse: collapse;
 border: 1px solid #000;
 padding: 1em;
+background-color: rgba(60, 60, 60, 0.75);
 }
 
 th {
-  background-color: #04AA6D;
+  background-color: rgb(128, 0, 0);
   color: white;
 }
-
-tr:nth-child(even) {background-color: #f2f2f2;}
