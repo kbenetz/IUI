@@ -28,7 +28,7 @@ img.works {
 }
 
 a {
-  background: rgba(60, 60, 60, 0.75)
+  background-color: rgba(60, 60, 60, 0.75)
 }
 
 a:link {
@@ -37,7 +37,7 @@ a:link {
 }
 
 a:visited {
-  color: black; /* visited link */
+  color: rgb(0, 153, 51); /* visited link */
   font-weight: bold;
 }
 
