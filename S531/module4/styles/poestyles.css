@@ -18,8 +18,12 @@ img {
   float: right;
 }
 
-img.home {
+img.poe {
   float: left;
+}
+
+img.eye {
+  float: none;
 }
 
 table, th, td {
