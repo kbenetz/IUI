@@ -2,7 +2,7 @@ body {
 max-width: 60em;
 margin: 0 auto 0 auto;
 color: rgb(255, 255, 255);
-background: rgb(119, 136, 153) url("../images/poe-portrait.png"), url("../images/tree3.png") no-repeat fixed bottom right, bottom left;
+background: rgb(119, 136, 153), url("../images/poe-portrait.png"), url("../images/tree3.png"), no-repeat, fixed, bottom right, bottom left;
 }
 
 h1, h2 {
