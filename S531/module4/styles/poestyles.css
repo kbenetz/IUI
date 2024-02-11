@@ -34,6 +34,7 @@ a:link {
 
 a:visited {
   color: rgb(255, 0, 0); /* visited link */
+  font-weight: bold;
 }
 
 a:active {
