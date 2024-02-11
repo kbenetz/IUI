@@ -1,7 +1,7 @@
 body {
 max-width: 60em;
 margin: 0 auto 0 auto;
-font-family: Helvetica;
+font-family: Helvetica, sans-serif;
 color: rgb(255, 255, 255);
 background-color: rgb(119, 136, 153);
   background-image: url("../images/poe-portrait.png"), url("../images/tree3.png");
@@ -14,6 +14,10 @@ p {
   background: rgba(60, 60, 60, 0.75);
 }
 
+h1, h2 {
+  font-family: Georgia, serif;
+}
+
 img {
   float: right;
 }
@@ -23,7 +27,7 @@ img.works {
 }
 
 table, th, td {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
 border-collapse: collapse;
 border: 1px solid #000;
 padding: 1em;
