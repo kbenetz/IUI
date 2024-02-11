@@ -33,7 +33,11 @@ a:link {
 }
 
 a:visited {
-  color: rgb(0, 128, 0); /* visited link */
+  color: rgb(50, 205, 50); /* visited link */
+}
+
+a:active {
+  color: rgb(255, 215, 0); /* selected link */
 }
 
 table, th, td {
