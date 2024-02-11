@@ -18,12 +18,8 @@ img {
   float: right;
 }
 
-img.poe {
+img.works {
   float: left;
-}
-
-img.eye {
-  float: none;
 }
 
 table, th, td {
