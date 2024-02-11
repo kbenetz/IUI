@@ -18,6 +18,10 @@ img {
   float: right;
 }
 
+img.home {
+  float: left;
+}
+
 table, th, td {
   font-family: Helvetica;
 border-collapse: collapse;
