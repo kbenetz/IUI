@@ -27,6 +27,15 @@ img.works {
   float: left; /* This changes position of images on Lenore and Tell-Tale Heart pages */ 
 }
 
+a:link {
+  color: rgb(255, 0, 255); /* unvisited link */
+  font-weight: bold;
+}
+
+a:visited {
+  color: rgb(0, 128, 0); /* visited link */
+}
+
 table, th, td {
   font-family: Helvetica, sans-serif;
 border-collapse: collapse;
