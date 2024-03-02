@@ -87,7 +87,7 @@
             .grid-container {
                 display: grid;
                 grid-template-areas:
-                                        'header header header header header header'
+                    'header header header header header header'
 					'nav nav nav nav nav nav'
                     'main main main main aside aside'
                     'footer footer footer footer footer footer';
