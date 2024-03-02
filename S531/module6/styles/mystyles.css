@@ -56,13 +56,16 @@
 
         ul li {
             list-style-type: none;
-            text-align: center;
         }
-        
+
+        div.links {
+            border: dotted #ffff66;
+        }
+
         a:link, a:visited {
             background-color: #05c1d2;
             color: rgb(255, 255, 255);
-            padding: 14px 25px;
+            padding: 15px 25px;
             text-align: center;
             text-decoration: none;
             display: inline-block;
