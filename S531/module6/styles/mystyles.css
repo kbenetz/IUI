@@ -67,7 +67,7 @@
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            float: left;
+            margin: auto;
           }
           
           a:hover, a:active {
