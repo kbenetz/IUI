@@ -6,27 +6,31 @@
 		
 		header {
             grid-area: header;
-            background-color: yellow;
+            background-color: #730099;
         }
 
         nav {
             grid-area: nav;
-            background-color: gray;
+            background-color: #4d79ff;
         }
 
         main {
             grid-area: main;
-            background-color: orange;
+            background-color: #4d79ff;
         }
 
         aside {
             grid-area: aside;
-            background-color: bisque;
+            background-color: #00e6ac;
         }
 
         footer {
             grid-area: footer;
-            background-color: green;
+            background-color: #b30059;
+        }
+
+        body {
+            background-color: #cce6ff;
         }
 
         .grid-container {
