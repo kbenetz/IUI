@@ -7,7 +7,6 @@
 		header {
             grid-area: header;
             background-color: #730099;
-            font-family: Arial, Helvetica, sans-serif;
         }
 
         nav {
@@ -32,7 +31,8 @@
 
         body {
             background-color: #cce6ff;
-            color: rgb(255, 255, 255)
+            color: rgb(255, 255, 255);
+            font-family: Arial, Helvetica, sans-serif;
         }
 
         .grid-container {
