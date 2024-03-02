@@ -60,14 +60,10 @@
             padding: 0;
         }
 
-        div.links {
-            border: dotted #ffff66;
-        }
-
         a:link, a:visited {
             background-color: #05c1d2;
             color: rgb(255, 255, 255);
-            padding: 15px 25px;
+            padding: auto auto;
             text-align: center;
             text-decoration: none;
             display: inline-block;
