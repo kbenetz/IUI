@@ -3,7 +3,7 @@
             height:auto;
             float: left;
         }
-        
+
         img.mainphoto {
             max-width: 100%;
             height: auto;
@@ -87,7 +87,7 @@
             padding: 0;
         }
 
-        a:link, a:visited {
+        a.button:link, a.button:visited {
             background-color: #05c1d2;
             color: rgb(255, 255, 255);
             padding: 15px 35px;
