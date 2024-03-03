@@ -155,5 +155,8 @@
                 margin: auto auto;
             }
 			
+            nav {
+                align-content: center;
+            }
 
         }
