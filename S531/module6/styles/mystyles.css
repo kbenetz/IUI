@@ -1,14 +1,14 @@
         img		{ 
 			max-width: 100%;
             height: auto;
-			float: left; /* YOU CAN FLOAT AN ELEMENT WITHIN A GRID AREA */
+			float: left; 
 		}
 
         img.mainphoto {
             max-width: 100%;
             height: auto;
             float: left;
-            padding: 5px;
+            padding: 8px;
             border-radius: 20px;
         }
 		
@@ -120,8 +120,8 @@
             .grid-container {
                 display: grid;
                 grid-template-areas:
-                    'nav nav nav nav nav nav'
                     'header header header header header header'
+                    'nav nav nav nav nav nav'
                     'main main main main main main'
                     'aside aside aside aside aside aside'
                     'footer footer footer footer footer footer';
