@@ -11,6 +11,14 @@
             padding: 8px;
             border-radius: 20px;
         }
+
+        img.larry {
+            max-width: 100;
+            height: auto;
+            border-radius: 50%;
+            display: block;
+            margin: auto auto;
+        }
 		
 		header {
             grid-area: header;
