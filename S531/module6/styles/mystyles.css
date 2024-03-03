@@ -1,6 +1,6 @@
         img		{ 
 			max-width: 100%;
-			float: left; /* YOU CAN FLOAT AN ELEMENT WITHIN A GRID AREA */
+			float: none; /* YOU CAN FLOAT AN ELEMENT WITHIN A GRID AREA */
 		}
 		
 		
