@@ -47,6 +47,13 @@
             font-family: Arial, Helvetica, sans-serif;
         }
 
+        @font-face {
+            font-family: "Madimi One";
+            src: url(/S531/module6/fonts/madimione-regular.ttf);
+            font-style: normal;
+            font-weight: normal;
+        }
+
         h1 h2.madimi-one-regular {
             font-family: "Madimi One", sans-serif;
             font-weight: 400;
