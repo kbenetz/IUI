@@ -52,11 +52,11 @@
             font-weight: 400;
             font-style: normal; /* Special heading font */
           }
-          
 
         h2 {
             text-align: center;
         }
+        
         .grid-container {
             display: grid;
             grid-template-areas:
