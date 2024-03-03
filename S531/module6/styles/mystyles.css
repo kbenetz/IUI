@@ -12,6 +12,7 @@
         nav {
             grid-area: nav;
             background-color: #4d79ff;
+            padding: 10px 15px 15px 15px;
         }
 
         main {
@@ -23,11 +24,13 @@
         aside {
             grid-area: aside;
             background-color: #00e6ac;
+            padding: 10px 15px 15px 15px;
         }
 
         footer {
             grid-area: footer;
             background-color: #b30059;
+            padding: 10px 15px 15px 15px;
         }
 
         body {
