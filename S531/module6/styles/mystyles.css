@@ -17,6 +17,7 @@
         main {
             grid-area: main;
             background-color: #4d79ff;
+            padding: 15px;
         }
 
         aside {
