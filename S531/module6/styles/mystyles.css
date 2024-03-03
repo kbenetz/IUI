@@ -8,8 +8,8 @@
             max-width: 100%;
             height: auto;
             float: left;
-            padding: 8px;
-            border-radius: 20px;
+            padding: 8em;
+            border-radius: 20em;
         }
 
         img.larry {
@@ -28,25 +28,25 @@
         nav {
             grid-area: nav;
             background-color: #4d79ff;
-            padding: 10px 15px 15px 15px;
+            padding: 10em 15em 15em 15em;
         }
 
         main {
             grid-area: main;
             background-color: #4d79ff;
-            padding: 10px 15px 15px 15px;
+            padding: 10em 15em 15em 15em;
         }
 
         aside {
             grid-area: aside;
             background-color: #00e6ac;
-            padding: 10px 15px 15px 15px;
+            padding: 10em 15em 15em 15em;
         }
 
         footer {
             grid-area: footer;
             background-color: #b30059;
-            padding: 10px 15px 15px 15px;
+            padding: 10em 15em 15em 15em;
         }
 
         body {
@@ -83,7 +83,7 @@
         a:link, a:visited {
             background-color: #05c1d2;
             color: rgb(255, 255, 255);
-            padding: 15px 35px;
+            padding: 15em 35em;
             text-align: center;
             text-decoration: none;
             display: block;
