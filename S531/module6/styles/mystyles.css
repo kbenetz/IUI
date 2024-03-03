@@ -97,7 +97,7 @@
             margin: auto;
           }
           
-          a:hover, a:active {
+          a.button:hover, a.button:active {
             background-color: #0e0f7b;
           }
 
