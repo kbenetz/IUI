@@ -56,7 +56,7 @@
         h2 {
             text-align: center;
         }
-        
+
         .grid-container {
             display: grid;
             grid-template-areas:
@@ -112,6 +112,10 @@
 
             ul li {
                 display: block;
+            }
+            
+            img.panda {
+                display: none;
             }
 
         }
