@@ -6,6 +6,7 @@
         img.mainphoto {
             max-width: 100%;
             float: left;
+            padding: 5px;
         }
 		
 		header {
