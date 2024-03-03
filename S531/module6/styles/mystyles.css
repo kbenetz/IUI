@@ -1,10 +1,12 @@
         img		{ 
 			max-width: 100%;
+            height: auto;
 			float: left; /* YOU CAN FLOAT AN ELEMENT WITHIN A GRID AREA */
 		}
 
         img.mainphoto {
             max-width: 100%;
+            height: auto;
             float: left;
             padding: 5px;
         }
