@@ -49,7 +49,7 @@
 
         @font-face {
             font-family: "Madimi One";
-            src: url(/S531/module6/fonts/madimione-regular.ttf);
+            src: url("/S531/module6/fonts/madimione-regular.ttf");
             font-style: normal;
             font-weight: normal;
         }
