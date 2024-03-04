@@ -70,6 +70,10 @@
             font-family: Helvetica, Arial, sans-serif;
         }
 
+        p.aside {
+            font-size: 5vw;
+        }
+
         h2 {
             text-align: center;
         }
