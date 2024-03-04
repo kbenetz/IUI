@@ -28,12 +28,6 @@
             padding: 8px;
             float: right;
         }
-
-        img.pottery {
-            max-width: 100%;
-            height: auto;
-            float: right;
-        }
 		
 		header {
             grid-area: header;
