@@ -107,7 +107,11 @@
             background-color: #0e0f7b;
           }
 
-        /* visited link on interests page */
+        /* link on interests page */
+        a.butter:active {
+            color: #ffccff;
+        }
+        
         a.butter:visited {
             color: #ffff80;
           }
