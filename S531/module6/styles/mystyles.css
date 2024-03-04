@@ -38,7 +38,7 @@
 
         nav {
             grid-area: nav;
-            background-color: #4d79ff;
+            background-color: #1a53ff;
             padding: 10px 15px 15px 15px;
         }
 
@@ -94,7 +94,7 @@
         }
 
         a.button:link, a.button:visited {
-            background-color: #00b3b3;
+            background-color: #009999;
             color: rgb(255, 255, 255);
             padding: 15px 35px;
             text-align: center;
@@ -111,7 +111,7 @@
         a.butter:active {
             color: #ffccff;
         }
-        
+
         a.butter:visited {
             color: #ffff80;
           }
