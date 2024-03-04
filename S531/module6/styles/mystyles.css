@@ -24,6 +24,14 @@
         img.channi {
             max-width: 100%;
             height: auto;
+            border-radius: 20px;
+            padding: 8px;
+            float: right;
+        }
+
+        img.pottery {
+            max-width: 100%;
+            height: auto;
             float: right;
         }
 		
