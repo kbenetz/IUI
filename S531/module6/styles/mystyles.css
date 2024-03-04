@@ -123,10 +123,6 @@
                 padding: .5em;
             }
 
-            ul.menu li {
-                display: block;
-            }
-
         }
 
         /* mobile breakpoint */
@@ -148,9 +144,7 @@
                 padding: .5em;
             }
 
-            ul.menu li {
-                display: block;
-            }
+           
 
             img.larry {
                 max-width: 75%;
