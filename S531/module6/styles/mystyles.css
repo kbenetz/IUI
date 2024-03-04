@@ -81,6 +81,21 @@
 			margin: auto;
         }
 
+        .grid-container-interests {
+            display: grid;
+            grid-template-areas:
+                'header header header header header aside'
+                'nav nav main main aside aside'
+                'nav nav main main aside aside'
+                'nav nav main main aside aside'
+				'footer footer footer footer footer footer';
+            grid-gap: .5em;
+            padding: .5em;
+			
+			max-width: 62em;
+			margin: auto;
+        }
+
         ul.menu {
             list-style-type: none;
             margin: 0;
