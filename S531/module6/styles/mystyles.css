@@ -108,11 +108,7 @@
           }
 
         /* link on pages */
-        a.pages:active {
-            color: #ccffcc;
-        }
-
-        a.pages:link {
+        a.pages:active, a.pages:link {
             color: #ccffcc;
         }
 
