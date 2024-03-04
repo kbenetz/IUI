@@ -112,6 +112,10 @@
             color: #ccffcc;
         }
 
+        a.pages:link {
+            color: #ccffcc;
+        }
+
         a.pages:visited {
             color: #ffff80;
           }
