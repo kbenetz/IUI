@@ -38,13 +38,13 @@
 
         nav {
             grid-area: nav;
-            background-color: #1a53ff;
+            background-color: #0038E0;
             padding: 10px 15px 15px 15px;
         }
 
         main {
             grid-area: main;
-            background-color: #1a53ff;
+            background-color: #0038E0;
             padding: 10px 15px 15px 15px;
         }
 
@@ -109,7 +109,7 @@
 
         /* link on pages */
         a.pages:active {
-            color: #ffccff;
+            color: #ccffcc;
         }
 
         a.pages:visited {
