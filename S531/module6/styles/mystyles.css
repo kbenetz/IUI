@@ -107,12 +107,12 @@
             background-color: #0e0f7b;
           }
 
-        /* link on interests page */
-        a.butter:active {
+        /* link on pages */
+        a.pages:active {
             color: #ffccff;
         }
 
-        a.butter:visited {
+        a.pages:visited {
             color: #ffff80;
           }
 
